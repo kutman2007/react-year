@@ -1,0 +1,16 @@
+button{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button:hover{
+    background-color: rgb(11, 234, 226);
+}
+.dad{
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    
+}
+.dad:hover{
+    background-color: red;
+}
